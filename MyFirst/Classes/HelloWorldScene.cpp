@@ -28,6 +28,8 @@ bool HelloWorld::init()
     {
         return false;
     }
+    
+    
 
     /////////////////////////////
     // 2. add a menu item with "X" image, which is clicked to quit the program
